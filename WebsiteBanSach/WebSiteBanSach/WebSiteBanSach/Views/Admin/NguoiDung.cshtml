@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "NguoiDung";
+    Layout = "~/Views/Shared/PageLayOutAdmin.cshtml";
+}
+
+@using WebSiteBanSach.Models;
+@model List<NGUOIDUNG>
+
+<center style="width: 100%"><h2 >NHÂN VIÊN</h2>
+<div style="width:100%">
+    <table class="table" style="text-align: center;">
+        <tr style="background-color: lightyellow">
+            <th width="10%">MÃ NV</th>
+            <th width="12%">TÊN NV</th>
+            <th width="12%">NGÀY SINH</th>
+            <th width="12%">SĐT</th>
+            <th width="12%">ĐỊA CHỈ</th>
+            <th width="12%">EMAIL</th>
+            <th width="12%">USERNAME</th>
+            <th width="12%">PASSWORD</th>
+            <th width="26%">QUYỀN</th>
+            <th colspan="2"><a class="btn btn-primary" href="@Url.Action("ThemNguoiDung", "Admin")" >THÊM NHÂN VIÊN</a></th>
+        </tr>
+    
+    @foreach (var item in Model)
+    {
+        <tr>
+            @using (Html.BeginForm("CapNhatND", "Admin", new { @MAND = item.MAND }))
+            {
+            <td width="12%">@item.MAND</td>
+            <td width="25%"><input id ="txtTen" type="text" name="txtTen" value="@item.TENND" style="width:100%"/></td>
+            <td width="15%"><input id ="txtNgaySinh" type="text" name="txtNgaySinh" value="@String.Format("{0:dd-MM-yyyy}", @item.NGAYSINH)"; style="width:100%"/></td>
+            <td width="15%"><input id ="txtSDT" type="text" name="txtSDT" value="@item.SDT" style="width:100%"/></td>
+                <td width="26%"><input id ="txtDC" type="text" name="txtDC" value="@item.DIACHI" style="width:100%"/></td>
+           <td width="26%"><input id ="txtEmail" type="text" name="txtEmail" value="@item.EMAIL" style="width:100%"/></td>
+            <td width="15%">@item.USERNAME</td>
+            <td width="15%"><input id ="txtPass" type="password" name="txtPass" value="@item.PASS" style="width:100%"/></td>
+            <td width="26%">@Html.Action("Quyen", "Admin", new { @q = item.QUYEN })</td>
+            <td width="12%"><a class="btn btn-primary" href="@Url.Action("XoaNguoiDung", "Admin", new { @MAND = item.MAND })" style="color:white">XOÁ</a></td>
+            <td width="12%"><input id="Submit1" type="submit" value="CẬP NHẬT" class="btn btn-primary" /></td>
+            }
+        </tr> 
+    }
+        </table>
+</div></center>

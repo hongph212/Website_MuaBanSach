@@ -1,0 +1,14 @@
+﻿@using WebSiteBanSach.Models;
+@model List<NHAXUATBAN>
+<div>
+    <select name="nxb" class="form-select" aria-label="select" style="width:90%">
+        <option selected>@ViewBag.TG</option>
+        @{
+            foreach (var item in Model)
+            {
+            <option>@item.TENNXB</option>
+            }       
+        }
+
+    </select>
+</div>

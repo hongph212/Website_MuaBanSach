@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "TacGiaPartial";
+    Layout = "~/Views/Shared/PageLayOutAdmin.cshtml";
+}
+
+<center style="width: 100%"><h2>TÁC GIẢ</h2>
+    <div class="card border-dark">
+        <table class="table" style="text-align: center;">
+            <tr style="background-color: lightyellow">
+                <th>MÃ TÁC GIẢ</th>
+                <th>TÊN TÁC GIẢ</th>
+                <th>HÌNH</th>
+                <th colspan="2"><a class="btn btn-primary" style="color: white"  href="@Url.Action("ThemTacGia", "Admin")" >THÊM TÁC GIẢ</a></th>
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @using (Html.BeginForm("CapNhatTacGia", "Admin", new { @MATG = item.MATG }))
+                    {
+                        <td>@item.MATG</td>
+                        <td>
+                            <input id ="txtTenTacGia" type="text" name="txtTenTacGia" value="@item.TENTG" style="width:100%"/>
+                        </td>
+                        <td>
+                            <img src="~/Images/sanpham/@item.HINHTG" style="width:170px;height:180px" />
+                        </td>
+                        <td>
+                            <a class="btn btn-primary" style="color: white" href="@Url.Action("XoaTacGia", "Admin", new { @MATG = item.MATG })"  >XOÁ</a></td>
+                        <td>
+                            <input id="Submit1" type="submit" value="CẬP NHẬT" class="btn btn-primary" style="color: white" />
+                        </td>
+                    }
+                </tr> 
+            }
+        </table>
+    </div>
+
+</center>

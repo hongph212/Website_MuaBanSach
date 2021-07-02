@@ -1,0 +1,90 @@
+﻿@{
+    ViewBag.Title = "SachPartial";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+}
+@*@using WebSiteBanSach.Models;
+@model List<SACH>*@
+@*<div class="row" style="padding-top: 1%">
+    <div id="danhmuc" class="col-3" style="padding: 0">
+        @Html.Action("TheLoaiPartial", "TheLoai")
+         @Html.Action("TacGiaPartial", "TacGia")
+    </div>*@
+@model PagedList.IPagedList<WebSiteBanSach.Models.SACH>
+@using PagedList.Mvc;
+
+<style>
+    .content {
+    }
+
+    .image {
+    }
+
+    .text {
+        bottom:0;
+        text-align: center;
+        position:absolute;
+        color: red;
+        text-decoration: none;
+        opacity: 0;
+        width: 200px;
+        height: 250px;
+    }
+
+    .content:hover .image {
+        opacity: 0.1;
+    }
+
+    .content:hover .text {
+        opacity: 1;
+    }
+</style>
+
+
+<center><div class="row" style="padding-top:1%;padding-right:0">
+            @{
+                foreach (var item in Model)
+                {
+                <div class="col-3">
+                    
+                    <a href="@Url.Action("XemChiTiet","Sach", new { @ms = item.MASACH })" class="content">
+                        <div class="text">
+                            <span><strong title="@item.MOTA">@item.MOTA.Substring(0, 40)...</strong></span><br>
+                            <span>Xem chi tiết</span> 
+                        </div>
+                        
+                        
+                        <img class="image" src="@Url.Content("~/Images/sanpham/" + item.HINH)" width="200px" height="250px"/>
+
+                    </a>              
+                    @if (item.TENSACH.Length > 20)
+                    {
+                        <p><strong title="@item.TENSACH">@item.TENSACH.Substring(0, 20)...</strong><br />
+                            @*<a style="color:blue;text-decoration:none"  href="@Url.Action("XemChiTiet", new { @ms = item.MASACH })">Chi Tiết</a>*@</p>
+                    }
+                    else
+                    {
+                        <p><strong title="@item.TENSACH">@item.TENSACH</strong><br />
+                            @*<a style="color:blue;text-decoration:none" href="@Url.Action("XemChiTiet", new { @ms = item.MASACH })">Chi Tiết</a>*@</p>
+                        <div class="clear"></div>
+                    }
+                    <div class="row">
+                        <div class="col">
+                            Giá Gốc: <strike class=""> @item.GIABAN</strike>
+                            <span class="" style="color: red">(- @item.GIAMGIA%)</span>
+                            <p>Giá chỉ còn:<b class="" style="color: red; font-size: 22px;"> @item.THANHTIEN <sup style="font-size: 10px">VNĐ</sup></b></p>
+                            
+                        </div>
+
+                    </div>
+                </div>
+                }       
+            }
+        </div><br />
+<div style="text-align: center;clear:both">
+    <p>Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount</p>
+    <button class="btn" style="background-color:#ccebff;color:red;text-align:center">@Html.PagedListPager(Model, page => Url.Action("SachPartial", new { page }))</button>
+</div></center>
+
+
+
+

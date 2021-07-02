@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "SachTheoNXB";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+}
+
+<h2>Sách Theo Nhà Xuất Bản</h2>
+
+@ViewBag.Sach
+
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+        <div class="col-4">
+            <img src="@Url.Content("~/Images_KTL2/" + item.Anh)" width="70%" height="70%" alt="Image" />
+            @if (item.TenSP.Length > 30)
+            {
+                <p>
+                    <strong title="@item.TenSP">: @item.TenSP.Substring(0, 30)...</strong><br />
+                    <a href="@Url.Action("XemChiTiet", new { @ms = item.MaSP })">Xem chi tiết</a>
+                </p>
+            }
+            else
+            {
+                <p>
+                    <strong title="@item.TenSP">TÊN SP: @item.TenSP</strong><br />
+                    <a href="@Url.Action("XemChiTiet", new { @ms = item.MaSP })">Xem chi tiết</a>
+                </p>
+                <div class="clear"></div>
+            }
+        </div>
+        }       
+        
+    }
+</div>

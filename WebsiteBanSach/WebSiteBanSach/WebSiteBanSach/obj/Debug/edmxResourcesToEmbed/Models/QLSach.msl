@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QL_SACHModelStoreContainer" CdmEntityContainer="QL_SACHEntities1">
+    <EntitySetMapping Name="BANNERs">
+      <EntityTypeMapping TypeName="QL_SACHModel.BANNER">
+        <MappingFragment StoreEntitySet="BANNER">
+          <ScalarProperty Name="MABANNER" ColumnName="MABANNER" />
+          <ScalarProperty Name="HINH" ColumnName="HINH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETHDs">
+      <EntityTypeMapping TypeName="QL_SACHModel.CHITIETHD">
+        <MappingFragment StoreEntitySet="CHITIETHD">
+          <ScalarProperty Name="SOHD" ColumnName="SOHD" />
+          <ScalarProperty Name="MASACH" ColumnName="MASACH" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="GIA" ColumnName="GIA" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETPNs">
+      <EntityTypeMapping TypeName="QL_SACHModel.CHITIETPN">
+        <MappingFragment StoreEntitySet="CHITIETPN">
+          <ScalarProperty Name="MAPN" ColumnName="MAPN" />
+          <ScalarProperty Name="MASACH" ColumnName="MASACH" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="GIANHAP" ColumnName="GIANHAP" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHUCVUs">
+      <EntityTypeMapping TypeName="QL_SACHModel.CHUCVU">
+        <MappingFragment StoreEntitySet="CHUCVU">
+          <ScalarProperty Name="QUYEN" ColumnName="QUYEN" />
+          <ScalarProperty Name="TENCHUCVU" ColumnName="TENCHUCVU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOADONs">
+      <EntityTypeMapping TypeName="QL_SACHModel.HOADON">
+        <MappingFragment StoreEntitySet="HOADON">
+          <ScalarProperty Name="SOHD" ColumnName="SOHD" />
+          <ScalarProperty Name="NGAYDAT" ColumnName="NGAYDAT" />
+          <ScalarProperty Name="NGAYGIAO" ColumnName="NGAYGIAO" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+          <ScalarProperty Name="GIAMGIA" ColumnName="GIAMGIA" />
+          <ScalarProperty Name="TONGTIEN" ColumnName="TONGTIEN" />
+          <ScalarProperty Name="MAND" ColumnName="MAND" />
+          <ScalarProperty Name="TINHTRANG" ColumnName="TINHTRANG" />
+          <ScalarProperty Name="DIACHIGIAO" ColumnName="DIACHIGIAO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGUOIDUNGs">
+      <EntityTypeMapping TypeName="QL_SACHModel.NGUOIDUNG">
+        <MappingFragment StoreEntitySet="NGUOIDUNG">
+          <ScalarProperty Name="MAND" ColumnName="MAND" />
+          <ScalarProperty Name="TENND" ColumnName="TENND" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="PASS" ColumnName="PASS" />
+          <ScalarProperty Name="QUYEN" ColumnName="QUYEN" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="GIOITINH" ColumnName="GIOITINH" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHAXUATBANs">
+      <EntityTypeMapping TypeName="QL_SACHModel.NHAXUATBAN">
+        <MappingFragment StoreEntitySet="NHAXUATBAN">
+          <ScalarProperty Name="MANXB" ColumnName="MANXB" />
+          <ScalarProperty Name="TENNXB" ColumnName="TENNXB" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="HINHNXB" ColumnName="HINHNXB" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHIEUNHAPs">
+      <EntityTypeMapping TypeName="QL_SACHModel.PHIEUNHAP">
+        <MappingFragment StoreEntitySet="PHIEUNHAP">
+          <ScalarProperty Name="MAPN" ColumnName="MAPN" />
+          <ScalarProperty Name="TONGTIEN" ColumnName="TONGTIEN" />
+          <ScalarProperty Name="MANXB" ColumnName="MANXB" />
+          <ScalarProperty Name="NGAYNHAP" ColumnName="NGAYNHAP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SACHes">
+      <EntityTypeMapping TypeName="QL_SACHModel.SACH">
+        <MappingFragment StoreEntitySet="SACH">
+          <ScalarProperty Name="MASACH" ColumnName="MASACH" />
+          <ScalarProperty Name="MATHELOAI" ColumnName="MATHELOAI" />
+          <ScalarProperty Name="TENSACH" ColumnName="TENSACH" />
+          <ScalarProperty Name="HINH" ColumnName="HINH" />
+          <ScalarProperty Name="MATACGIA" ColumnName="MATACGIA" />
+          <ScalarProperty Name="GIABAN" ColumnName="GIABAN" />
+          <ScalarProperty Name="GIAMGIA" ColumnName="GIAMGIA" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+          <ScalarProperty Name="MOTA" ColumnName="MOTA" />
+          <ScalarProperty Name="TINHTRANG" ColumnName="TINHTRANG" />
+          <ScalarProperty Name="MANXB" ColumnName="MANXB" />
+          <ScalarProperty Name="MOI" ColumnName="MOI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TACGIAs">
+      <EntityTypeMapping TypeName="QL_SACHModel.TACGIA">
+        <MappingFragment StoreEntitySet="TACGIA">
+          <ScalarProperty Name="MATG" ColumnName="MATG" />
+          <ScalarProperty Name="TENTG" ColumnName="TENTG" />
+          <ScalarProperty Name="HINHTG" ColumnName="HINHTG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THELOAIs">
+      <EntityTypeMapping TypeName="QL_SACHModel.THELOAI">
+        <MappingFragment StoreEntitySet="THELOAI">
+          <ScalarProperty Name="MATHELOAI" ColumnName="MATHELOAI" />
+          <ScalarProperty Name="TENTHELOAI" ColumnName="TENTHELOAI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

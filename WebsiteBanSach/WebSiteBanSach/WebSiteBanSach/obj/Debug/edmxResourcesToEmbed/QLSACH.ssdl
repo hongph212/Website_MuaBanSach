@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_SACHModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="QL_SACHModelStoreContainer">
+    <EntitySet Name="BANNER" EntityType="QL_SACHModel.Store.BANNER" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CHITIETHD" EntityType="QL_SACHModel.Store.CHITIETHD" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CHITIETPN" EntityType="QL_SACHModel.Store.CHITIETPN" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CHUCVU" EntityType="QL_SACHModel.Store.CHUCVU" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="HOADON" EntityType="QL_SACHModel.Store.HOADON" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="KHACHHANG" EntityType="QL_SACHModel.Store.KHACHHANG" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="NHANVIEN" EntityType="QL_SACHModel.Store.NHANVIEN" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="NHAXUATBAN" EntityType="QL_SACHModel.Store.NHAXUATBAN" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PHIEUNHAP" EntityType="QL_SACHModel.Store.PHIEUNHAP" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SACH" EntityType="QL_SACHModel.Store.SACH" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TACGIA" EntityType="QL_SACHModel.Store.TACGIA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="THELOAI" EntityType="QL_SACHModel.Store.THELOAI" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_CTHD_HOADON" Association="QL_SACHModel.Store.FK_CTHD_HOADON">
+      <End Role="HOADON" EntitySet="HOADON" />
+      <End Role="CHITIETHD" EntitySet="CHITIETHD" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CTHD_SANPHAM" Association="QL_SACHModel.Store.FK_CTHD_SANPHAM">
+      <End Role="SACH" EntitySet="SACH" />
+      <End Role="CHITIETHD" EntitySet="CHITIETHD" />
+    </AssociationSet>
+    <AssociationSet Name="fk_ctpn_mapn" Association="QL_SACHModel.Store.fk_ctpn_mapn">
+      <End Role="PHIEUNHAP" EntitySet="PHIEUNHAP" />
+      <End Role="CHITIETPN" EntitySet="CHITIETPN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CTPN_SACH" Association="QL_SACHModel.Store.FK_CTPN_SACH">
+      <End Role="SACH" EntitySet="SACH" />
+      <End Role="CHITIETPN" EntitySet="CHITIETPN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_KH" Association="QL_SACHModel.Store.FK_HD_KH">
+      <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+      <End Role="HOADON" EntitySet="HOADON" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KH_CV" Association="QL_SACHModel.Store.FK_KH_CV">
+      <End Role="CHUCVU" EntitySet="CHUCVU" />
+      <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NV_CV" Association="QL_SACHModel.Store.FK_NV_CV">
+      <End Role="CHUCVU" EntitySet="CHUCVU" />
+      <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PN_NXB" Association="QL_SACHModel.Store.FK_PN_NXB">
+      <End Role="NHAXUATBAN" EntitySet="NHAXUATBAN" />
+      <End Role="PHIEUNHAP" EntitySet="PHIEUNHAP" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SP_NXB" Association="QL_SACHModel.Store.FK_SP_NXB">
+      <End Role="NHAXUATBAN" EntitySet="NHAXUATBAN" />
+      <End Role="SACH" EntitySet="SACH" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SP_TG" Association="QL_SACHModel.Store.FK_SP_TG">
+      <End Role="TACGIA" EntitySet="TACGIA" />
+      <End Role="SACH" EntitySet="SACH" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SP_TL" Association="QL_SACHModel.Store.FK_SP_TL">
+      <End Role="THELOAI" EntitySet="THELOAI" />
+      <End Role="SACH" EntitySet="SACH" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BANNER">
+    <Key>
+      <PropertyRef Name="MABANNER" />
+    </Key>
+    <Property Name="MABANNER" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="HINH" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="CHITIETHD">
+    <Key>
+      <PropertyRef Name="SOHD" />
+      <PropertyRef Name="MASACH" />
+    </Key>
+    <Property Name="SOHD" Type="int" Nullable="false" />
+    <Property Name="MASACH" Type="int" Nullable="false" />
+    <Property Name="SL" Type="int" />
+    <Property Name="GIA" Type="float" />
+    <Property Name="THANHTIEN" Type="float" />
+  </EntityType>
+  <EntityType Name="CHITIETPN">
+    <Key>
+      <PropertyRef Name="MAPN" />
+      <PropertyRef Name="MASACH" />
+    </Key>
+    <Property Name="MAPN" Type="int" Nullable="false" />
+    <Property Name="MASACH" Type="int" Nullable="false" />
+    <Property Name="SL" Type="int" />
+    <Property Name="GIANHAP" Type="float" />
+    <Property Name="THANHTIEN" Type="float" />
+  </EntityType>
+  <EntityType Name="CHUCVU">
+    <Key>
+      <PropertyRef Name="QUYEN" />
+    </Key>
+    <Property Name="QUYEN" Type="int" Nullable="false" />
+    <Property Name="TENCHUCVU" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="SOHD" />
+    </Key>
+    <Property Name="SOHD" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NGAYDAT" Type="datetime" />
+    <Property Name="NGAYGIAO" Type="datetime" />
+    <Property Name="THANHTIEN" Type="float" />
+    <Property Name="GIAMGIA" Type="float" />
+    <Property Name="TONGTIEN" Type="float" />
+    <Property Name="MAKH" Type="int" />
+    <Property Name="TINHTRANG" Type="int" />
+    <Property Name="DIACHIGIAO" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MAKH" />
+    </Key>
+    <Property Name="MAKH" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TENKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="USERNAME" Type="varchar" MaxLength="50" />
+    <Property Name="PASS" Type="varchar" MaxLength="50" />
+    <Property Name="QUYEN" Type="int" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="100" />
+    <Property Name="SDT" Type="char" MaxLength="10" />
+    <Property Name="GIOITINH" Type="nvarchar" MaxLength="50" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MANV" />
+    </Key>
+    <Property Name="MANV" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TENNV" Type="nvarchar" MaxLength="50" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="100" />
+    <Property Name="NGAYSINH" Type="datetime" />
+    <Property Name="GIOITINH" Type="char" MaxLength="5" />
+    <Property Name="SDT" Type="char" MaxLength="10" />
+    <Property Name="CHUCVU" Type="nvarchar" MaxLength="30" />
+    <Property Name="USERNAME" Type="varchar" MaxLength="50" />
+    <Property Name="PASS" Type="varchar" MaxLength="50" />
+    <Property Name="QUYEN" Type="int" />
+    <Property Name="HINH" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="NHAXUATBAN">
+    <Key>
+      <PropertyRef Name="MANXB" />
+    </Key>
+    <Property Name="MANXB" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TENNXB" Type="nvarchar" MaxLength="50" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="100" />
+    <Property Name="SDT" Type="char" MaxLength="10" />
+    <Property Name="HINHNXB" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="PHIEUNHAP">
+    <Key>
+      <PropertyRef Name="MAPN" />
+    </Key>
+    <Property Name="MAPN" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TONGTIEN" Type="float" />
+    <Property Name="MANXB" Type="int" />
+    <Property Name="NGAYNHAP" Type="datetime" />
+  </EntityType>
+  <EntityType Name="SACH">
+    <Key>
+      <PropertyRef Name="MASACH" />
+    </Key>
+    <Property Name="MASACH" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MATHELOAI" Type="int" />
+    <Property Name="TENSACH" Type="nvarchar" MaxLength="100" />
+    <Property Name="HINH" Type="varchar" MaxLength="100" />
+    <Property Name="MATACGIA" Type="int" />
+    <Property Name="GIABAN" Type="float" />
+    <Property Name="GIAMGIA" Type="float" />
+    <Property Name="THANHTIEN" Type="float" />
+    <Property Name="SOLUONG" Type="int" />
+    <Property Name="MOTA" Type="nvarchar" />
+    <Property Name="TINHTRANG" Type="nvarchar" MaxLength="10" />
+    <Property Name="MANXB" Type="int" />
+    <Property Name="MOI" Type="int" />
+  </EntityType>
+  <EntityType Name="TACGIA">
+    <Key>
+      <PropertyRef Name="MATG" />
+    </Key>
+    <Property Name="MATG" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TENTG" Type="nvarchar" MaxLength="100" />
+    <Property Name="HINHTG" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="THELOAI">
+    <Key>
+      <PropertyRef Name="MATHELOAI" />
+    </Key>
+    <Property Name="MATHELOAI" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TENTHELOAI" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_CTHD_HOADON">
+    <End Role="HOADON" Type="QL_SACHModel.Store.HOADON" Multiplicity="1" />
+    <End Role="CHITIETHD" Type="QL_SACHModel.Store.CHITIETHD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="SOHD" />
+      </Principal>
+      <Dependent Role="CHITIETHD">
+        <PropertyRef Name="SOHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CTHD_SANPHAM">
+    <End Role="SACH" Type="QL_SACHModel.Store.SACH" Multiplicity="1" />
+    <End Role="CHITIETHD" Type="QL_SACHModel.Store.CHITIETHD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SACH">
+        <PropertyRef Name="MASACH" />
+      </Principal>
+      <Dependent Role="CHITIETHD">
+        <PropertyRef Name="MASACH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_ctpn_mapn">
+    <End Role="PHIEUNHAP" Type="QL_SACHModel.Store.PHIEUNHAP" Multiplicity="1" />
+    <End Role="CHITIETPN" Type="QL_SACHModel.Store.CHITIETPN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIEUNHAP">
+        <PropertyRef Name="MAPN" />
+      </Principal>
+      <Dependent Role="CHITIETPN">
+        <PropertyRef Name="MAPN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CTPN_SACH">
+    <End Role="SACH" Type="QL_SACHModel.Store.SACH" Multiplicity="1" />
+    <End Role="CHITIETPN" Type="QL_SACHModel.Store.CHITIETPN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SACH">
+        <PropertyRef Name="MASACH" />
+      </Principal>
+      <Dependent Role="CHITIETPN">
+        <PropertyRef Name="MASACH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_KH">
+    <End Role="KHACHHANG" Type="QL_SACHModel.Store.KHACHHANG" Multiplicity="0..1" />
+    <End Role="HOADON" Type="QL_SACHModel.Store.HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MAKH" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MAKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KH_CV">
+    <End Role="CHUCVU" Type="QL_SACHModel.Store.CHUCVU" Multiplicity="0..1" />
+    <End Role="KHACHHANG" Type="QL_SACHModel.Store.KHACHHANG" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHUCVU">
+        <PropertyRef Name="QUYEN" />
+      </Principal>
+      <Dependent Role="KHACHHANG">
+        <PropertyRef Name="QUYEN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NV_CV">
+    <End Role="CHUCVU" Type="QL_SACHModel.Store.CHUCVU" Multiplicity="0..1" />
+    <End Role="NHANVIEN" Type="QL_SACHModel.Store.NHANVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHUCVU">
+        <PropertyRef Name="QUYEN" />
+      </Principal>
+      <Dependent Role="NHANVIEN">
+        <PropertyRef Name="QUYEN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PN_NXB">
+    <End Role="NHAXUATBAN" Type="QL_SACHModel.Store.NHAXUATBAN" Multiplicity="0..1" />
+    <End Role="PHIEUNHAP" Type="QL_SACHModel.Store.PHIEUNHAP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHAXUATBAN">
+        <PropertyRef Name="MANXB" />
+      </Principal>
+      <Dependent Role="PHIEUNHAP">
+        <PropertyRef Name="MANXB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SP_NXB">
+    <End Role="NHAXUATBAN" Type="QL_SACHModel.Store.NHAXUATBAN" Multiplicity="0..1" />
+    <End Role="SACH" Type="QL_SACHModel.Store.SACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHAXUATBAN">
+        <PropertyRef Name="MANXB" />
+      </Principal>
+      <Dependent Role="SACH">
+        <PropertyRef Name="MANXB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SP_TG">
+    <End Role="TACGIA" Type="QL_SACHModel.Store.TACGIA" Multiplicity="0..1" />
+    <End Role="SACH" Type="QL_SACHModel.Store.SACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TACGIA">
+        <PropertyRef Name="MATG" />
+      </Principal>
+      <Dependent Role="SACH">
+        <PropertyRef Name="MATACGIA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SP_TL">
+    <End Role="THELOAI" Type="QL_SACHModel.Store.THELOAI" Multiplicity="0..1" />
+    <End Role="SACH" Type="QL_SACHModel.Store.SACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="THELOAI">
+        <PropertyRef Name="MATHELOAI" />
+      </Principal>
+      <Dependent Role="SACH">
+        <PropertyRef Name="MATHELOAI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

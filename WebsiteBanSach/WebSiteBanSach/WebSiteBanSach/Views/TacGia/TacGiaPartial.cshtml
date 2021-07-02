@@ -1,0 +1,18 @@
+﻿@using WebSiteBanSach.Models;
+@model List<TACGIA>
+
+
+        <ul class="list-group list-group-flush text-left">
+            <li class="list-group-item" style="background-color: #3c3c2a;"><a href="#" style="text-transform: uppercase; text-decoration: none; color: white; font-weight: bold;">TÁC GIẢ</a></li>
+            @{
+                foreach (var item in Model)
+                {
+                <li class="list-group-item">
+                    <a href="@Url.Action("SachTheoTG", "TacGia", new { @maTG = item.MATG })" style="text-transform:uppercase; text-decoration:none; color: #3c3c2a">@item.TENTG </a>
+                </li>
+                }                   
+                <li class="list-group-item"><a href="#" style="text-transform: uppercase; text-decoration: none;"></a></li>
+            }
+
+        </ul>
+

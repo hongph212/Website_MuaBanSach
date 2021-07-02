@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "SachTheoTG";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+    
+}
+
+@using WebSiteBanSach.Models;
+@model List<SACH>
+
+@*<div class="row" style="padding-top: 1%">
+    <div class="col-3" style="padding: 0">
+        @Html.Action("TacGiaPartial", "TacGia")
+        @Html.Action("TheLoaiPartial", "TheLoai")
+    </div>
+    <div class="col-9">*@
+
+<style>
+    .content {
+    }
+    .image {
+
+    }
+    .text {
+        bottom:0px;
+        text-align:center;
+        position:absolute;
+        color:red;
+        text-decoration:none;
+        opacity:0;
+        width:200px;
+        height:250px;
+    }
+        .content:hover .image{
+            opacity:0.1;
+        }
+    .content:hover .text {
+        opacity:1;
+    }
+</style>
+        <center><h2 style="text-transform:uppercase">SÁCH THEO TÁC GIẢ @ViewBag.TG</h2></center>
+        @ViewBag.Sach
+       <div class="row">
+            @{           
+                foreach (var item in Model)
+                {
+                <div class="col-4">
+                    <a href="@Url.Action("XemChiTiet","Sach", new { @ms = item.MASACH })" class="content">
+                        <div class="text">
+                            <span><strong title="@item.MOTA">@item.MOTA.Substring(0, 40)...</strong></span><br />
+                            <span>Xem chi tiết</span> 
+                        </div>
+                        
+                        
+                        <img class="image" src="@Url.Content("~/Images/sanpham/" + item.HINH)" width="200px" height="250px"/>
+
+                    </a>             
+                    @if (item.TENSACH.Length > 20)
+                    {
+                        <p><strong title="@item.TENSACH">@item.TENSACH.Substring(0, 20)...</strong><br />
+                            @*<a style="color:blue;text-decoration:none"  href="@Url.Action("XemChiTiet", new { @ms = item.MASACH })">Chi Tiết</a>*@</p>
+                    }
+                    else
+                    {
+                        <p><strong title="@item.TENSACH">@item.TENSACH</strong><br />
+                            @*<a style="color:blue;text-decoration:none" href="@Url.Action("XemChiTiet", new { @ms = item.MASACH })">Chi Tiết</a>*@</p>
+                        <div class="clear"></div>
+                    }
+                    <div class="row">
+                        <div class="col">
+                            <b class="" style="color: red; font-size: 22px;">@item.THANHTIEN <sup style="font-size: 10px">VNĐ</sup></b>
+                            <strike class="">@item.GIABAN</strike>
+                            <span class="" style="color: red">-@item.GIAMGIA%</span>
+                        </div>
+                    </div>
+                </div>
+                }   
+            }
+       </div>
+
+@*    </div>
+</div>*@
+

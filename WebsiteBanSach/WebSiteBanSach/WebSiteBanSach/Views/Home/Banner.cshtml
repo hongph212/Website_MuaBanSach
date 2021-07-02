@@ -1,0 +1,10 @@
+﻿@using WebSiteBanSach.Models
+@model List<BANNER>
+
+@foreach (var item in Model)
+{
+    <div class="carousel-item @(item == Model.First() ? "active" : "")">
+       <img src="~/Images/banner/@item.HINH" style="height:300px;width:100%"/>
+    </div>
+}
+

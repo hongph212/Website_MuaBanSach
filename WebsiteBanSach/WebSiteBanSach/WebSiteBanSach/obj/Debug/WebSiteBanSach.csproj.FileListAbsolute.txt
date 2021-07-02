@@ -1,0 +1,411 @@
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+E:\School\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+F:\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\1,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\2,12,2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+D:\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+E:\School\BT Công nghệ Web\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\13-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\BesNhi\Documents\Công nghệ WEB\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\Công nghệ Web\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\Admin\Desktop\CNW_DoAn\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Providers.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\Admin\Documents\Zalo Received Files\14-12-2020\NguyenNgocHai_2001181090_CongNgheWeb_sangt5\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb

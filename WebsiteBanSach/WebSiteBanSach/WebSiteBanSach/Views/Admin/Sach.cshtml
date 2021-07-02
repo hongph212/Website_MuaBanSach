@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Sach";
+    Layout = "~/Views/Shared/PageLayOutAdmin.cshtml";
+}
+
+@using WebSiteBanSach.Models;
+@model List<SACH>
+
+<center style="width:100%"><h2>DANH MỤC SÁCH</h2>
+<div class="card border-dark">
+    <table class="table" style="text-align: center;">
+        <tr style="background-color: lightyellow">
+            <th width="5%">MÃ SÁCH</th>
+            <th width="12%">TÊN SÁCH</th>
+            <th width="12%">ẢNH BÌA</th>
+            <th width="10%">SỐ LƯỢNG</th>
+            <th width="10%">ĐƠN GIÁ</th>
+            <th width="10%">GIẢM GIÁ</th>
+            <th width="10%">TÁC GIẢ</th>
+            <th width="10%">THỂ LOẠI</th>
+            <th width="10%">NHÀ XUẤT BẢN</th>
+            <th width="10%">MÔ TẢ</th>
+            <th width="10%" colspan="2"><a class="btn btn-primary" href="@Url.Action("ThemSach","Admin")" >THÊM SÁCH</a></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @using (Html.BeginForm("CapNhatSach", "Admin", new { @MASP = item.MASACH }))
+                {
+                    <td width="5%">@item.MASACH</td>
+                    <td width="20%">
+                        <input id ="txtTenSach" type="text" name="txtTenSach" value="@item.TENSACH" style="width:100%"/></td>
+                    <td width="15%">
+                        <img src="~/Images/sanpham/@item.HINH" style="width:170px;height:180px" /></td>
+                    <td>
+                        <input id ="txtSoLuong" type="number" name="txtSoLuong" value="@item.SOLUONG" style="width:40px"/></td>
+               
+                    <td width="10%"><input id ="txtGiaBan" type="text" name="txtGiaBan" value="@String.Format("{0:0,0}", item.GIABAN)" style="width:70px"/></td>
+                    <td width="10%"><input id ="txtGiamGia" type="text" name="txtGiamGia" value="@item.GIAMGIA" style="width:40px"/></td>
+                    <td width="10%">@Html.Action("TacGia","Admin", new { @tg = item.MATACGIA })</td>
+                    <td width="10%">@Html.Action("TheLoai","Admin", new { @tl = item.MATHELOAI })</td>
+                    <td width="10%">@Html.Action("NXB","Admin", new { @nxb = item.MANXB })</td>
+                    <td width="10%"><input id ="txtMoTa" type="text" name="txtMoTa" value="@item.MOTA" style="width:70px"/></td>
+                    <td><a class="btn btn-primary" href="@Url.Action("XoaSach", "Admin", new { @MASP = item.MASACH })" style="color:white;">XOÁ</a></td>
+                    <td>
+                        <input id="Submit1" type="submit" value="CẬP NHẬT" class="btn btn-primary" /></td>
+                }
+            </tr> 
+        }
+        <tr style="background-color: lightyellow">
+        </tr>
+    </table>
+</div></center>

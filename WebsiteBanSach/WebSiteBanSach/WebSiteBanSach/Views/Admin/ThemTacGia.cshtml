@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "ThemTacGia";
+    Layout = "~/Views/Shared/PageLayOutAdmin.cshtml";
+}
+
+<style>
+    .active-cyan-4 input[type=text]:focus:not([readonly]) { border: 1px solid #4dd0e1; box-shadow: 0 0 0 1px #4dd0e1; }
+
+    .active-cyan-3 input[type=text] { border: 1px solid #4dd0e1; box-shadow: 0 0 0 1px #4dd0e1; }
+</style>
+<form action="/Admin/ThemSach" method="post" style="width: 100%;">
+    <div class="container" style="width: 50%; padding-top: 1%">
+        <h3 style="text-align: center; color: #505050">THÊM TÁC GIẢ</h3>
+        <br />
+        <p>@ViewBag.tbl</p>
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="text" placeholder="Tên Tác Giả" name="tensach">
+        </div>
+        <div>
+            <input type="file" name="file" id="file" style="width: 82%; ">
+        </div>
+        <br />
+        <center><input id="Submit1" type="submit" class="btn btn-primary" style="color:white" value="Thêm Tác Giả" /></center>
+    </div>
+</form>
+}

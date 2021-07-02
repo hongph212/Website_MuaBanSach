@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+}
+
+<style>
+    .active-cyan-4 input[type=text]:focus:not([readonly]) {
+        border: 1px solid #4dd0e1;
+        box-shadow: 0 0 0 1px #4dd0e1;
+    }
+
+    .active-cyan-3 input[type=text] {
+        border: 1px solid #4dd0e1;
+        box-shadow: 0 0 0 1px #4dd0e1;
+    }
+</style>
+
+@using (Html.BeginForm())
+{
+    <div class="container" style="width:50%">
+        <br />
+        <h3 style="text-align: center; color:#505050">ĐĂNG NHẬP</h3>
+        <br />
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="text" placeholder="Tên đăng nhập" aria-label="Tên đăng nhập" name="tendn">
+        </div>
+        <br />
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="password" placeholder="Mật khẩu" aria-label="Mật khẩu" name="matkhau">
+        </div>
+        <br />
+        <center><input id="Submit1" type="submit" class="btn btn-primary" value="Đăng Nhập" /></center>
+        <p>@ViewBag.tb</p>
+    </div>
+}

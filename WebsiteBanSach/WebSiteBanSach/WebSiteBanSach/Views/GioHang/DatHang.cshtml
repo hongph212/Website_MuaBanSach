@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "DatHang";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+}
+
+@using WebSiteBanSach.Models;
+<h2>THÔNG TIN HÀNG HÓA</h2>
+<div class="card border-dark">
+    <table class="table">
+        <tr style="background-color: lightyellow">
+            <th>MÃ SÁCH</th>
+            <th>TÊN SÁCH</th>
+            <th>ẢNH BÌA</th>
+            <th>SỐ LƯỢNG</th>
+            <th>ĐƠN GIÁ</th>
+            <th>THÀNH TIỀN</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td width="12%">@item.iMaSach</td>
+                <td width="26%">@item.sTenSach</td>
+                <td width="22%">
+                    <img src="~/Images/sanpham/@item.sAnhBia" width="50%" /></td>
+
+                @using (Html.BeginForm("CapNhatGioHang", "GioHang", new { @MASP = item.iMaSach }))
+                {
+                    <td>
+                        <input id ="txtSoLuong" type="number" name="txtSoLuong" value="@item.iSoLuong" style="width:40px"/></td>
+                    <td width="12%">@String.Format("{0:0,0}", item.dDonGia)</td>
+                    <td width="16%">@String.Format("{0:0,0}", item.dThanhTien)</td>
+                }
+            </tr> 
+        }
+        <tr style="background-color: lightyellow">
+            <td colspan="3" style="color: blue; font-weight: bold; text-align: right">Tổng cộng: </td>
+            <td style="color: red; font-weight: bold;">SL: @ViewBag.tongSoLuong</td>
+            <td></td>
+            <td colspan="4" style="color: red; font-weight: bold;">TT: @String.Format("{0:0,0}", ViewBag.TongThanhTien) VNĐ</td>
+        </tr>
+        <tr>
+            <td colspan="6">@Html.ActionLink("TRỞ VỀ GIỎ HÀNG","GioHang","GioHang")</td>
+        </tr>
+    </table>
+</div>
+<h2>THÔNG TIN KHÁCH HÀNG</h2>
+@{
+    KHACHHANG kh = (KHACHHANG)Session["taikhoan"];
+}
+<table class="table" align="center">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true);
+        <tr>
+            <td>Họ Tên Khách Hàng: </td>
+            <td style="font-weight:bold">@kh.TENKH</td>
+        </tr>
+        <tr>
+            <td>Điện Thoại: </td>
+            <td style="font-weight:bold">@kh.SDT</td>
+        </tr>
+         <tr>
+            <td>Địa Chỉ: </td>
+            <td><input type="text" name="DiaChi" /></td>
+        </tr>
+        <tr>
+            <td>Ngày Đặt: </td>
+            <td style="font-weight:bold">@DateTime.Now.ToShortDateString()</td>
+        </tr>
+        <tr>
+            <td>Ngày Giao: </td>
+            <td><input type="date" name="Ngaygiao" /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><input class="btn btn-primary" type="submit" value="ĐỒNG Ý ĐẶT HÀNG" /></td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6624863fea5e4e9c931f40edb3d3233c" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_SACHModel.BANNER" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.CHITIETHD" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.CHITIETPN" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.CHUCVU" Width="1.5" PointX="1.5" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.HOADON" Width="1.5" PointX="3" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.NGUOIDUNG" Width="1.5" PointX="0.75" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.NHAXUATBAN" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.PHIEUNHAP" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.SACH" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.TACGIA" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_SACHModel.THELOAI" Width="1.5" PointX="0.75" PointY="10.125" IsExpanded="true" />
+        <AssociationConnector Association="QL_SACHModel.FK_CTHD_HOADON" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_CTHD_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.fk_ctpn_mapn" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_CTPN_SACH" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_ND_CV" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_HD_ND" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_PN_NXB" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_SP_NXB" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_SP_TG" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_SACHModel.FK_SP_TL" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

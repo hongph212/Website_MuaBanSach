@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "ThemSach";
+    Layout = "~/Views/Shared/PageLayOutAdmin.cshtml";
+}
+
+@{
+    ViewBag.Title = "ThemSach";
+    Layout = "~/Views/Shared/PageLayOutAdmin.cshtml";
+}
+
+<style>
+    .active-cyan-4 input[type=text]:focus:not([readonly]) { border: 1px solid #4dd0e1; box-shadow: 0 0 0 1px #4dd0e1; }
+
+    .active-cyan-3 input[type=text] { border: 1px solid #4dd0e1; box-shadow: 0 0 0 1px #4dd0e1; }
+</style>
+
+    <div class="container" style="width: 50%; padding-top: 1%">
+        <h3 style="text-align: center; color: #505050">THÊM SÁCH</h3>
+        <br />
+        <p></p>
+        @using (Html.BeginForm())
+        {
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="text" placeholder="Tên Sách" name="tensach">
+        </div>
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="text" placeholder="Giá Bán" name="giaban">
+        </div>
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="text" placeholder="Giảm Giá " name="giamgia">
+        </div>
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input type="checkbox" name="tinhtrang" value="Mới">Mới
+        </div>
+        <div class="active-cyan-3 active-cyan-4 mb-4">
+            <input class="form-control" type="text" placeholder="MÔ TẢ" name="mota">
+        </div>
+
+        <div >@Html.Action("TacGia", "Admin", new { @tg = 0 })</div>
+        <br />
+                    <div>@Html.Action("TheLoai", "Admin", new { @tl = 0 })</div>
+        <br />
+                    <div>@Html.Action("NXB", "Admin", new { @nxb = 0 })</div>
+       <br />
+            <div>
+            <input type="file" name="file" id="file" style="width: 82%; ">
+        </div>
+        <center><input id="Submit1" type="submit" class="btn btn-primary" value="Thêm Sách" /></center>
+        }
+    </div>
+    
+}

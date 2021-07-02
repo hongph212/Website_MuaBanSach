@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+}
+@using WebSiteBanSach.Models;
+
+<div class="card bordered-dark">
+    <table class="bordered-darj mx-3 mb-3 mt-3">
+        <tr class="text-left">
+            <td rowspan="5" style="width: 200px;height:400px;text-align:center">
+                <img class="card-header" src="@Url.Content("~/Images/sanpham/" + Model.HINH)" width="350px" height="450px" alt="Image" />
+                <div class="row" style="padding-top:1%">
+        <div class="col-6" style="text-align:center">
+            <a href="@Url.Action("ThemGioHang", "GioHang",new { @ms = Model.MASACH, @strURL = Request.Url.ToString()})">
+                <input type="submit" value="MUA NGAY" class="btn btn-primary " /></a>
+        </div>
+        <div class="col-6"style="text-align:center">
+            <a href="@Url.Action("SachPartial", "Sach")">
+                <input type="submit" value="MUA TIẾP" class="btn btn-primary " /></a>
+        </div>
+    </div>
+            </td>
+            <td width="20%">Tên Sách:</td>
+            <td width="30%" style="font-weight: bold; color: blue">@Model.TENSACH</td>
+        </tr>   
+        <tr class="text-left">
+            <td>Tên thể loại:</td>
+            <td style="color: blue">@Model.THELOAI.TENTHELOAI</td>
+        </tr>
+        <tr class="text-left">
+            <td>Tên NXB:</td>
+            <td style="color: blue">@Model.NHAXUATBAN.TENNXB</td>
+        </tr>
+        <tr class="text-left">
+            <td>Nội dung tóm tắt:</td>
+            <td class="text-justify">@Model.MOTA</td>
+        </tr>
+        <tr class="text-left">
+            <td>Giá Bán:</td>
+            <td class="text-justify" style="color: red">@Model.THANHTIEN VNĐ</td>
+        </tr>
+    </table>
+    
+</div>
